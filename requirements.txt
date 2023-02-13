@@ -1,4 +1,4 @@
 pydicom
 numpy
-opencv-python
+opencv-python==3.4.18.65
 dataclasses
